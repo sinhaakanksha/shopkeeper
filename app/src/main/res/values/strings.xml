@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menubar</string>
+    <string name="shop">Welcome Shopkeeper</string>
+    <string name="dashbord">DASHBORD</string>
+    <string name="manage_orders">Manage Orders</string>
+    <string name="manage_catalog">Manage Catalog</string>
+    <string name="todo">TODO</string>
+    <string name="tecfresh">TECFRESH</string>
+    <string name="add_product">add product</string>
+    <string name="delete_product">delete product</string>
+</resources>
